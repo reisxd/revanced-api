@@ -48,7 +48,7 @@ app.use('/', IndexRoute);
 
 app.use(Express.json());
 
-app.listen(80);
+app.listen(config.website.port);
 
 (async() => {
     await refreshContributors(dbClient);
