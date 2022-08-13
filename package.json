@@ -1,0 +1,21 @@
+{
+  "name": "revanced-api",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "GPL-3.0-only",
+  "dependencies": {
+    "express": "^4.18.1",
+    "express-session": "^1.17.3",
+    "mongodb": "^4.8.1",
+    "node-fetch": "^3.2.10",
+    "passport": "^0.6.0",
+    "passport-discord": "^0.1.4"
+  }
+}

@@ -1,0 +1,12 @@
+{
+    "discordOAuth2": {
+        "clientId": "",
+        "clientSecret": ""
+    },
+    "website": {
+        "url": "http://localhost",
+        "port": 80
+    },
+    "admins": [""],
+    "mongoDBURL": "mongodb://localhost"
+}
